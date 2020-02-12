@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1581533746 source:e:\projects\imageprocessing\image.c
+	<stdio.h>
+	<stdlib.h>
+	<stdio.h>
+	"image.h"
+
+1581534235 e:\projects\imageprocessing\image.h
+
+1581534154 source:e:\projects\imageprocessing\main.c
+	<stdio.h>
+	<stdlib.h>
+	"traitement.h"
+
+1581533836 e:\projects\imageprocessing\traitement.h
+	"image.h"
+
+1581533820 source:e:\projects\imageprocessing\traitement.c
+	<stdio.h>
+	<string.h>
+	<math.h>
+	"traitement.h"
+	"image.h"
+
